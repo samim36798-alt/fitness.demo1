@@ -1,0 +1,6 @@
+{
+  "name": "Ironforge Fitness",
+  "description": "High-performance fitness sanctuary website with interactive 3D training gear, dynamic class schedules, tier checkout, and cinematic brand animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
